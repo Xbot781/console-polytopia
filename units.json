@@ -1,92 +1,116 @@
 {
-	"warrior":{
-		"name":"Warrior",
-		"letter":"!",
-		"attack":2,
-		"defense":2,
-		"move":1,
-		"range":1,
-		"hp":10,
-		"skills":["dash","fortify"]
+	"warrior": {
+		"name": "Warrior",
+		"letter": "!",
+		"attack": 2,
+		"defense": 2,
+		"move": 1,
+		"range": 1,
+		"hp": 10,
+		"skills": [
+			"dash",
+			"fortify"
+		]
 	},
-	"defender":{
-		"name":"Defender",
-		"letter":"U",
-		"attack":1,
-		"defense":3,
-		"move":1,
-		"range":1,
-		"hp":15,
-		"skills":["fortify"]
+	"defender": {
+		"name": "Defender",
+		"letter": "U",
+		"attack": 1,
+		"defense": 3,
+		"move": 1,
+		"range": 1,
+		"hp": 15,
+		"skills": [
+			"fortify"
+		]
 	},
-	"swordsman":{
-		"name":"Swordsman",
-		"letter":"I",
-		"attack":3,
-		"defense":3,
-		"move":1,
-		"range":1,
-		"hp":15,
-		"skills":["dash","fortify"]
+	"swordsman": {
+		"name": "Swordsman",
+		"letter": "I",
+		"attack": 3,
+		"defense": 3,
+		"move": 1,
+		"range": 1,
+		"hp": 15,
+		"skills": [
+			"dash",
+			"fortify"
+		]
 	},
-	"giant":{
-		"name":"Giant",
-		"letter":"8",
-		"attack":5,
-		"defense":4,
-		"move":1,
-		"range":1,
-		"hp":40,
-		"skills":["noveteran"]
+	"giant": {
+		"name": "Giant",
+		"letter": "8",
+		"attack": 5,
+		"defense": 4,
+		"move": 1,
+		"range": 1,
+		"hp": 40,
+		"skills": [
+			"noveteran"
+		]
 	},
-	"archer":{
-		"name":"Archer",
-		"letter":">",
-		"attack":2,
-		"defense":1,
-		"move":1,
-		"range":2,
-		"hp":10,
-		"skills":["dash","fortify"]
+	"archer": {
+		"name": "Archer",
+		"letter": ">",
+		"attack": 2,
+		"defense": 1,
+		"move": 1,
+		"range": 2,
+		"hp": 10,
+		"skills": [
+			"dash",
+			"fortify"
+		]
 	},
-	"catapult":{
-		"name":"Catapult",
-		"letter":"C",
-		"attack":4,
-		"defense":0,
-		"move":1,
-		"range":3,
-		"hp":10,
-		"skills":[]
+	"catapult": {
+		"name": "Catapult",
+		"letter": "C",
+		"attack": 4,
+		"defense": 0,
+		"move": 1,
+		"range": 3,
+		"hp": 10,
+		"skills": []
 	},
-	"rider":{
-		"name":"Rider",
-		"letter":"r",
-		"attack":2,
-		"defense":1,
-		"move":2,
-		"range":1,
-		"hp":10,
-		"skills":["dash","escape","fortify"]
+	"rider": {
+		"name": "Rider",
+		"letter": "r",
+		"attack": 2,
+		"defense": 1,
+		"move": 2,
+		"range": 1,
+		"hp": 10,
+		"skills": [
+			"dash",
+			"escape",
+			"fortify"
+		]
 	},
-	"knight":{
-		"name":"Knight",
-		"letter":"R",
-		"attack":3,
-		"defense":1,
-		"move":3,
-		"range":1,
-		"hp":15,
-		"skills":["dash","persist","fortify"]
+	"knight": {
+		"name": "Knight",
+		"letter": "R",
+		"attack": 3,
+		"defense": 1,
+		"move": 3,
+		"range": 1,
+		"hp": 15,
+		"skills": [
+			"dash",
+			"persist",
+			"fortify"
+		]
 	},
-	"mindbender":{
-		"name":"Mind Bender",
-		"letter":"|",
-		"attack":0,
-		"defense":1,
-		"move":1,
-		"range":1,
-		"hp":10,
-		"skills":["heal","convert"]
+	"mindbender": {
+		"name": "Mind Bender",
+		"letter": "|",
+		"attack": 0,
+		"defense": 1,
+		"move": 1,
+		"range": 1,
+		"hp": 10,
+		"skills": [
+			"heal",
+			"convert"
+		]
 	}
 }
